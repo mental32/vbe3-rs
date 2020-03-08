@@ -1,0 +1,7 @@
+[package]
+name = "vbe3"
+version = "0.1.0"
+authors = ["mental <m3nta1@yahoo.com>"]
+edition = "2018"
+
+[dependencies]
